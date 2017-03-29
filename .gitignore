@@ -40,4 +40,7 @@ nbdist/
 #Database
 **/DB.java
 
+#doxX
+**/test.docx
+
 # End of https://www.gitignore.io/api/macos,netbeans

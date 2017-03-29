@@ -1,3 +1,6 @@
+In your own repo add a README.md file describing this exercise
+
+
 HALLØJ DUDE!…
 
 # gittest
