@@ -37,7 +37,7 @@ dist/
 nbdist/
 .nb-gradle/
 
-# Database
-** /DB.java
+#Database
+**/DB.java
 
 # End of https://www.gitignore.io/api/macos,netbeans
